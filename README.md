@@ -11,11 +11,11 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 
 **[Facebook](https://www.facebook.com/profile.php?id=100089369375835&mibextid=ZbWKwL)**
 
-**[Twitter](https://twitter.com/ortibexon)**
+**[Twitter](https://twitter.com/EmixDev)**
 
-**[Instagram](https://Instagram.com/ortibexon)**
+**[Instagram](https://Instagram.com/rtbxn)**
 
-**[Telegram](https://t.me/@ortibexon)**
+**[Telegram](https://t.me/@EmixDev)**
 
 **Discord - ortibexon#7693**
 
@@ -23,12 +23,12 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 
 **[DeviantArt](https://www.deviantart.com/ortibexon)**
 
-**[Itch.io](https://rtbxndev.itch.io)**
+**[Itch.io](https://emixdev.itch.io)**
 
 **[Gamejolt](https://gamejolt.com/@ortibexon)**
 
 **[Steam](https://steamcommunity.com/profiles/76561199445562672/)**
 
-**[Mastodon](https://mastodon.social/@ortibexon)**
+**[Mastodon](https://mastodon.online/@Emix)**
 
 **[Matrix](https://matrix.to/#/@ortibexon:matrix.org)**
