@@ -28,7 +28,3 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 **[Gamejolt](https://gamejolt.com/@ortibexon)**
 
 **[Steam](https://steamcommunity.com/profiles/76561199445562672/)**
-
-**[Mastodon](https://mastodon.online/@Emix)**
-
-**[Matrix](https://matrix.to/#/@ortibexon:matrix.org)**
