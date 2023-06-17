@@ -17,7 +17,7 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 
 **[Telegram](https://t.me/@EmixDev)**
 
-**Discord - ortibexon#7693**
+**Discord - Emix#7693**
 
 **[Youtube](https://youtube.com/@ortibexon)**
 
