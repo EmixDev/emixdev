@@ -13,13 +13,13 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 
 **[Twitter](https://twitter.com/EmixDev)**
 
-**[Instagram](https://Instagram.com/rtbxn)**
+**[Instagram](https://Instagram.com/emixdev)**
 
 **[Telegram](https://t.me/@EmixDev)**
 
 **Discord - Emix#7693**
 
-**[Youtube](https://youtube.com/@ortibexon)**
+**[Youtube](https://youtube.com/@EmixDev)**
 
 **[DeviantArt](https://www.deviantart.com/ortibexon)**
 
