@@ -13,6 +13,8 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 
 **[Twitter](https://twitter.com/EmixDev)**
 
+**[Fediverse](https://mastodon.ml/@DevlightOfficial)**
+
 **[Instagram](https://Instagram.com/emixdev)**
 
 **[Telegram](https://t.me/@EmixDev)**
