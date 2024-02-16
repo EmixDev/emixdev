@@ -11,9 +11,9 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 
 **[Facebook](https://www.facebook.com/profile.php?id=100089369375835&mibextid=ZbWKwL)**
 
-**[Twitter](https://twitter.com/EmixDev)**
+**[Twitter](https://twitter.com/EmixDevMain)**
 
-**[Fediverse](https://mastodon.ml/@DevlightOfficial)**
+**[Fediverse](https://mastodon.ml/@EmixDev)**
 
 **[Instagram](https://Instagram.com/emixdev)**
 
