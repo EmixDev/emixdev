@@ -8,7 +8,7 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 * HTML/CSS/JavaScript
 
 ## How to contact me:
-**[X](https://twitter.com/EmixDevMain)**
+**[X](https://twitter.com/EmixDev)**
 
 **[Instagram](https://Instagram.com/emixdev)**
 
@@ -18,10 +18,10 @@ Hello, my name is **Emil** and I'm a developer. I mainly develop desktop applica
 
 **[Youtube](https://youtube.com/@EmixDev)**
 
-**[DeviantArt](https://www.deviantart.com/ortibexon)**
+**[DeviantArt](https://www.deviantart.com/EmixDev)**
 
 **[Itch.io](https://emixdev.itch.io)**
 
-**[Gamejolt](https://gamejolt.com/@ortibexon)**
+**[Gamejolt](https://gamejolt.com/@emixdev)**
 
 **[Steam](https://steamcommunity.com/id/EmixDev05/)**
